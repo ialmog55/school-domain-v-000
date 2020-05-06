@@ -24,8 +24,8 @@ class School
     end
     @roster.sort_by {|grade,groster| grade}
     @roster
-  
-      
+
+
   end
 
 end
